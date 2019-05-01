@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;tz_zk_serverclient.ZKClient.java&apos; to &apos;ZKServer.java&apos;&#x0D;&#x0A;- Original project: &apos;tz_zk_serverclient&apos;&#x0D;&#x0A;- Original element: &apos;tz_zk_serverclient.ZKClient.java&apos;&#x0D;&#x0A;- Renamed element: &apos;tz_zk_serverclient.ZKServer.java&apos;" description="Rename compilation unit &apos;ZKClient.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;tz_zk_serverclient{ZKClient.java" name="ZKServer.java" references="false" stamp="1553013374096" version="1.0"/>
+</session>

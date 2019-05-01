@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543933144653_1" label="tz_bigdata_study" name="tz_bigdata_study">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tz_mr_wordcount" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tz_hdfs_rpc_test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tz_hdfs_01" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tz_mr_handtest" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1542380408079_0" label="Window Working Set" name="Aggregate for window 1542380408078"/>
+</workingSetManager>

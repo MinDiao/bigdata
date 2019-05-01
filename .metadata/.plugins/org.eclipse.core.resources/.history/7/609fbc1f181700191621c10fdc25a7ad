@@ -1,0 +1,13 @@
+package itstaredu_mr_inputformat;
+
+import org.apache.hadoop.mapreduce.RecordReader;
+/**
+ * 
+ * @ClassName:  FuncRecordReader   
+ * @Description:  TODO 
+ * @author:  lilong
+ * @date:   2019年1月13日 下午5:46:31
+ */
+public class FuncRecordReader extends RecordReader<KEYIN, VALUEIN> {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.tz.assistranking&apos; to &apos;com.itstaredu.assistranking&apos;&#x0D;&#x0A;- Original project: &apos;itstaredu_mr_order&apos;&#x0D;&#x0A;- Original element: &apos;itstaredu_mr_order/src/com.tz.assistranking&apos;&#x0D;&#x0A;- Renamed element: &apos;itstaredu_mr_order/src/com.itstaredu.assistranking&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.tz.assistranking&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.tz.assistranking" name="com.itstaredu.assistranking" qualified="false" references="true" stamp="1545496297311" textual="false" version="1.0"/>
+</session>

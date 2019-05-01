@@ -1,0 +1,11 @@
+package itstaredu_mr_outputformat;
+/**
+ * 
+ * @ClassName:  FileRecordWriter   
+ * @Description:  TODO 
+ * @author:  lilong
+ * @date:   2019年3月10日 下午10:46:55
+ */
+public class FileRecordWriter {
+
+}

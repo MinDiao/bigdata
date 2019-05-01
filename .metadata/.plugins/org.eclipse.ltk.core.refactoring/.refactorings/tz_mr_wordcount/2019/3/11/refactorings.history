@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;tz_mr_wccompress/src/tz_mr_wccompress&apos;&#x0D;&#x0A;- Original project: &apos;tz_mr_wordcount&apos;&#x0D;&#x0A;- Destination element: &apos;tz_mr_wccompress/src/tz_mr_wccompress&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.tz.mrlocalhost.WordCountReducer.java&#x0D;&#x0A;     com.tz.mrlocalhost.WordCountMapper.java&#x0D;&#x0A;     com.tz.mrlocalhost.WordCountDriver.java" description="Copy compilation units" destination="=tz_mr_wccompress/src&lt;tz_mr_wccompress" element1="/src&lt;com.tz.mrlocalhost{WordCountReducer.java" element2="/src&lt;com.tz.mrlocalhost{WordCountMapper.java" element3="/src&lt;com.tz.mrlocalhost{WordCountDriver.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1552721406028" units="3" version="1.0"/>
+</session>

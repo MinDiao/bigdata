@@ -1,0 +1,5 @@
+package itstaredu_mr_outputformat;
+
+public class FileRecordWriter {
+
+}

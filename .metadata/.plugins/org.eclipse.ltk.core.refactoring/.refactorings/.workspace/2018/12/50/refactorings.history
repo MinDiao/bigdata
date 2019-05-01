@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;tz_mapreduce_cmcc&apos;" deleteContents="true" description="Delete resource &apos;tz_mapreduce_cmcc&apos;" element1="/tz_mapreduce_cmcc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1544891755949"/>
+</session>

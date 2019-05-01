@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;tz-hadoop&apos; to &apos;tz_hadoop_01&apos;&#x0D;&#x0A;- Original element: &apos;tz-hadoop&apos;&#x0D;&#x0A;- Renamed element: &apos;tz-hadoop&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;tz-hadoop&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=tz-hadoop" name="tz_hadoop_01" references="true" stamp="1542380551821" version="1.0"/>
+</session>

@@ -1,0 +1,7 @@
+package itstaredu_mr_inputformat;
+
+import org.apache.hadoop.mapreduce.Reducer;
+
+public class SequenceFileReducer extends Reducer<KEYIN, VALUEIN, KEYOUT, VALUEOUT> {
+
+}

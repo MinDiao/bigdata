@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>F:/Study/tz-BigData/第九期大数据课程/正式课程/课程课件+笔记/1022-提交job流程分区排序===/代码/hadoop-2.8.4-src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

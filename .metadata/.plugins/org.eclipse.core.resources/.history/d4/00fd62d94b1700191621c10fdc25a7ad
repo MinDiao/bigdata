@@ -1,0 +1,15 @@
+package itstaredu_mr_inputformat;
+
+import org.apache.hadoop.io.BytesWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Reducer;
+/**
+ * 
+ * @ClassName:  SequenceFileReducer   
+ * @Description:  TODO 
+ * @author:  lilong
+ * @date:   2019年1月13日 下午11:56:47
+ */
+public class SequenceFileReducer extends Reducer<Text, BytesWritable, Text, BytesWritable> {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.tz.com.UDF&apos; to &apos;Lower&apos;&#x0D;&#x0A;- Original project: &apos;tz_hive_udf&apos;&#x0D;&#x0A;- Original element: &apos;com.tz.com.UDF&apos;&#x0D;&#x0A;- Renamed element: &apos;com.tz.com.Lower&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UDF&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.tz.com{UDF.java[UDF" matchStrategy="1" name="Lower" qualified="false" references="true" similarDeclarations="false" stamp="1554048749239" textual="false" version="1.0"/>
+</session>

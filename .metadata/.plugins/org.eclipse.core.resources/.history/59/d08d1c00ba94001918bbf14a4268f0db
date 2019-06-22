@@ -1,0 +1,37 @@
+package com.tz.wordcount;
+
+import java.util.Map;
+
+import org.apache.storm.spout.SpoutOutputCollector;
+import org.apache.storm.task.TopologyContext;
+import org.apache.storm.topology.OutputFieldsDeclarer;
+import org.apache.storm.topology.base.BaseRichSpout;
+
+/**
+ * 
+ * @ClassName:  WordCountSpout   
+ * @Description:  TODO 
+ * @author:  LiuJinrong
+ * @date:   2019年6月22日 下午2:48:24
+ */
+public class WordCountSpout extends BaseRichSpout {
+
+	@Override
+	public void nextTuple() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void open(Map arg0, TopologyContext arg1, SpoutOutputCollector arg2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void declareOutputFields(OutputFieldsDeclarer arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

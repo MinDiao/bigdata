@@ -1,0 +1,14 @@
+package com.tz.wordcount;
+
+import org.apache.storm.topology.TopologyBuilder;
+
+public class WordCountDriver {
+
+	public static void main(String[] args) {
+		
+		// 1.hadoop -> Job storm -> topology 创建拓扑
+		TopologyBuilder builder = new TopologyBuilder();
+		
+		// 2.
+	}
+}

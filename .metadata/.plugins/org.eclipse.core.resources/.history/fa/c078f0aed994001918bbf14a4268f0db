@@ -1,0 +1,5 @@
+package com.tz.wordcount;
+
+public class WordCountBolt {
+
+}

@@ -1,0 +1,11 @@
+package com.tz.wordcount;
+/**
+ * 
+ * @ClassName:  WordCountSpout   
+ * @Description:  TODO 
+ * @author:  LiuJinrong
+ * @date:   2019年6月22日 下午2:48:24
+ */
+public class WordCountSpout {
+
+}

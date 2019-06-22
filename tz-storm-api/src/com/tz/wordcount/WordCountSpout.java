@@ -1,0 +1,58 @@
+package com.tz.wordcount;
+
+import java.util.Map;
+
+import org.apache.storm.spout.SpoutOutputCollector;
+import org.apache.storm.task.TopologyContext;
+import org.apache.storm.topology.OutputFieldsDeclarer;
+import org.apache.storm.topology.base.BaseRichSpout;
+import org.apache.storm.tuple.Fields;
+import org.apache.storm.tuple.Values;
+
+/**
+ * 
+ * @ClassName:  WordCountSpout   
+ * @Description:  TODO 
+ * @author:  LiuJinrong
+ * @date:   2019年6月22日 下午2:48:24
+ */
+public class WordCountSpout extends BaseRichSpout {
+	/**
+	 * 定义收集器
+	 */
+	private SpoutOutputCollector collector;
+
+	/**
+	 * 发送数据
+	 */
+	@Override
+	public void nextTuple() {
+		// 1.发送数据到bolt
+		collector.emit(new Values("I'm ljr"));
+		
+		// 2.设置延迟
+		try {
+			Thread.sleep(500);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+
+	/**
+	 * 创建收集器
+	 */
+	@Override
+	public void open(Map arg0, TopologyContext arg1, SpoutOutputCollector collector) {
+		this.collector = collector;
+	}
+
+	/**
+	 * 声明
+	 */
+	@Override
+	public void declareOutputFields(OutputFieldsDeclarer declare) {
+		// 起别名
+		declare.declare(new Fields("tz"));
+	}
+
+}
